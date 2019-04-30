@@ -65,6 +65,10 @@ def strftime(date, date_format):
     formatting them with the date, (if necessary) decoding the output and
     replacing formatted output back.
     '''
+#   https://gist.github.com/xiaoci/de228e3f0c2ec052a8824ae7806aed6e
+#   http://project.mde.tw/blog/pelican-windows-python-error.html
+    locale.setlocale(locale.LC_ALL, 'en')
+    
     def strip_zeros(x):
         return x.lstrip('0') or '0'
     c89_directives = 'aAbBcdfHIjmMpSUwWxXyYzZ%'
