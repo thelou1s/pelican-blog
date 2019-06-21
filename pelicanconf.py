@@ -39,7 +39,7 @@ RELATIVE_URLS = True
 
 ###############################################################################
 # Theme
-THEME = r'E:\Python\pelican-blog\pelican\pelican\themes\nice-blog'
+THEME = r'/Users/luis/PycharmProjects/pelican-blog/pelican/themes/pelican-clean-blog'
 
 # Theme
 # THEME = r'E:\Python\pelican-blog\pelican\pelican\themes\pure'

@@ -16,3 +16,4 @@ six-*.egg/
 venv
 samples/output
 *.pem
+.idea/
