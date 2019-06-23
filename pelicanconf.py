@@ -41,6 +41,12 @@ RELATIVE_URLS = True
 # Theme
 THEME = r'/Users/luis/PycharmProjects/pelican-blog/pelican/themes/pelican-clean-blog'
 
+SOCIAL = (('twitter', 'https://twitter.com/myprofile'),
+          ('github', 'https://github.com/myprofile'),
+          ('facebook','https://facebook.com/myprofile'),
+          ('flickr','https://www.flickr.com/myprofile/'),
+          ('envelope','mailto:my@mail.address'))
+
 # Theme
 # THEME = r'E:\Python\pelican-blog\pelican\pelican\themes\pure'
 # COVER_IMG_URL = 'static\home-bg.jpg'
