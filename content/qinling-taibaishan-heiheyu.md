@@ -1,4 +1,4 @@
-Title: 秦岭七十二峪 太白山 黑河峪     
+Title: 秦岭七十二峪 太白山 黑河峪
 Category: 秦岭
 Tags: 秦岭
 Author: Luis Wu
